@@ -1,0 +1,35 @@
+{
+  "name": "weather-dashboard",
+  "version": "1.0.0",
+  "description": "A modern, responsive weather dashboard built with HTML, CSS, and JavaScript",
+  "main": "Index.html",
+  "scripts": {
+    "start": "http-server -p 8000",
+    "dev": "live-server --port=8000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather",
+    "dashboard",
+    "javascript",
+    "html",
+    "css",
+    "api",
+    "openweathermap",
+    "responsive"
+  ],
+  "author": "Arafat Mouse Omer <arafat.mouse.omer@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arafad-mouse/weather-dashboard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Arafad-mouse/weather-dashboard/issues"
+  },
+  "homepage": "https://github.com/Arafad-mouse/weather-dashboard#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "live-server": "^1.2.2"
+  }
+} 
