@@ -1,6 +1,11 @@
 // API Configuration
-const API_KEY = 'af5f47590e7de352c4cd02f70d710940'; // Replace with your actual OpenWeatherMap API key
+// At the very top of your script.js
+require('dotenv').config();
+
+// API Configuration
+const API_KEY = process.env.OPENWEATHER_API_KEY;
 const BASE_URL = 'https://api.openweathermap.org';
+
 
 // DOM Elements
 const searchInput = document.getElementById('search-input');
