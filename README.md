@@ -1,4 +1,6 @@
-# Weather Dashboard
+# Weather Dashboard 🌦️
+
+[![Live Demo](https://img.shields.io/badge/%F0%9F%9A%80-Live_Demo-2ea44f?style=for-the-badge)](https://Arafad-mouse.github.io/weather-app)
 
 A modern, responsive weather dashboard built with HTML, CSS, and JavaScript that provides real-time weather information and forecasts for any city worldwide.
 
@@ -15,7 +17,9 @@ A modern, responsive weather dashboard built with HTML, CSS, and JavaScript that
 
 ## 🚀 Live Demo
 
-[Add your live demo link here]
+Experience the weather dashboard in action:
+
+👉 [Live Demo Here](https://Arafad-mouse.github.io/weather-app)
 
 ## 📸 Screenshots
 
